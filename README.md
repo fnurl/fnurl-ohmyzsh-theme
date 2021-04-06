@@ -2,5 +2,5 @@
 
 Based on tjkirch.
 
-- added support for pyenv
-
+- added pyenv info
+- added nvm info
